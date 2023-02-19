@@ -1,0 +1,15 @@
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\bin\Debug\net6.0\WhiteboardingWeek6.exe
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\bin\Debug\net6.0\WhiteboardingWeek6.deps.json
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\bin\Debug\net6.0\WhiteboardingWeek6.runtimeconfig.json
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\bin\Debug\net6.0\WhiteboardingWeek6.dll
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\bin\Debug\net6.0\WhiteboardingWeek6.pdb
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\WhiteboardingWeek6.csproj.AssemblyReference.cache
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\WhiteboardingWeek6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\WhiteboardingWeek6.AssemblyInfoInputs.cache
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\WhiteboardingWeek6.AssemblyInfo.cs
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\WhiteboardingWeek6.csproj.CoreCompileInputs.cache
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\WhiteboardingWeek6.dll
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\refint\WhiteboardingWeek6.dll
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\WhiteboardingWeek6.pdb
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\WhiteboardingWeek6.genruntimeconfig.cache
+C:\Users\Decagon\Desktop\My Projects\WhiteboardingWeek6\WhiteboardingWeek6\obj\Debug\net6.0\ref\WhiteboardingWeek6.dll
